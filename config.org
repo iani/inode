@@ -1,0 +1,31 @@
+* preamble
+<div id="toc\>
+<a href=""></a>
+<a href="{{.}}/projects/sitemap.html">Projects</a> |
+<a href="{{.}}/topics/sitemap.html">Topics</a> |
+<a href="{{.}}/tools/sitemap.html">Tools</a>
+</div>
+<div style = "position: absolute; top: 10px; left: 10px; ">
+ <FORM METHOD="POST" ACTION="/cgi-bin/search_engine.cgi"><INPUT TYPE="text" SIZE="20" NAME="keywords" MAXLENGTH="80"><INPUT TYPE="SUBMIT" VALUE="Search"></FORM> 
+</div>
+* section-numbers: nil
+* table-of-contents: nil
+* recursive: t
+* headline-levels: 2
+* auto-preamble: t
+
+* style
+<link rel="stylesheet" href="{{.}}/css/org.css" type="text/css"/>
+* auto-index: t
+* table-of-contents: t
+* author: "IZ & AT & AP"
+* email:  "zannos AT gmail DOT com"
+
+
+
+* link-about: "../"
+* link-up: "../sitemap.html"
+* link-home: "{{.}}/index.html"
+
+
+{{.}} ../
