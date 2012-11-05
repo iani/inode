@@ -2,5 +2,7 @@
 
 Welcome to the iNode website of earlab. 
 
+[[./testtemp.org][test of a link]]
 
+[[./andrea/index.org][this is andrea's home page on inode]]
 

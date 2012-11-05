@@ -1,3 +1,6 @@
 #+TITLE: Sitemap
 
+   + andrea
+     + [[file:andrea/index.org][Andrea's test page]]
    + [[file:index.org][Welcome to the iNode website of earlab.]]
+   + [[file:testtemp.org][testtemp]]
